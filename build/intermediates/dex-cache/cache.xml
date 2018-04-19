@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yangshuquan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/pre-dexed/debug/support-v4-18.0.0_b713646739a13374d0ec432d0c8e39c48347e7f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangshuquan/Downloads/demo-uhf_example2/libs/cw-deviceapi20180323.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9941947dce740818d5523f274a7f1912445f8094">
+        <dex dex="/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/pre-dexed/debug/cw-deviceapi20180323_d16b592f39197b20717da6eae3e49095d2cd7fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangshuquan/Downloads/demo-uhf_example2/libs/xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/pre-dexed/debug/xUtils-2.5.5_46eb0627c8bbaa9e246ecbe37ea7005f4c95a507.jar" />
+    </item>
+
+</items>

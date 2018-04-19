@@ -1,0 +1,46 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 15
+    buildToolsVersion '23.0.1'
+
+    defaultConfig {
+        applicationId "com.example.uhf"
+        minSdkVersion 11
+        targetSdkVersion 15
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+buildscript {
+    repositories {
+        mavenCentral()
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.0'
+    }
+}
+
+allprojects {
+    repositories {
+        maven { url 'http://repo1.maven.org/maven2' }
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
+    }
+}
+dependencies {
+    compile files('libs/xUtils-2.5.5.jar')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/cw-deviceapi20180323.jar')
+}

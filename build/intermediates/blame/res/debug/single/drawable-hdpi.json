@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\close.png",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/drawable-hdpi/close.png",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/drawable-hdpi/webtext.png",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/drawable-hdpi/webtext.png"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\webtext.png",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\drawable-hdpi\\webtext.png"
+    }
+]

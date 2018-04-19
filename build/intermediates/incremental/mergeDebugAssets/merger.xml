@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/assets"/><source path="/Users/yangshuquan/Downloads/demo-uhf_example2/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/yangshuquan/Downloads/demo-uhf_example2/src/debug/assets"/></dataSet></merger>
