@@ -839,7 +839,7 @@
     <string name="app_msg_Upgrade">Upgrading...\nDo not exit, lest damage hardware</string>
     <string name="app_msg_exit_confirm">Press again to exit the program</string>
     <string name="app_msg_init">init...</string>
-    <string name="app_name">demo_uhf</string>
+    <string name="app_name">标签测试(tid过滤)</string>
     <string name="app_picker_name">Applications</string>
     <string name="app_run_code_error">Application runtime exception</string>
     <string name="app_title">AppCenter</string>
@@ -1778,43 +1778,34 @@
         <item name="android:textColor">@drawable/check_text_color</item>
     </style>
     <style name="AppBaseTheme" parent="@android:style/Theme.Holo">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
     <style name="CustomTheme" parent="android:style/Theme.Holo.Light">  
-         <!-- 这是item的背景修改，不按时透明，按时显示绿色  -->  
-         <!-- <item name="android:selectableItemBackground">@color/white1</item>  -->  
-         <!-- <item name="android:actionDropDownStyle">@style/MyDropDownNav</item>     
-         <item name="android:dropDownListViewStyle">@style/MyDropDownListView</item>       
-         <item name="android:actionBarTabStyle">@style/MyActionBarTabStyle</item> -->  
+           
+           
+           
          <item name="android:actionBarTabTextStyle">@style/MyActionBarTabTextStyle</item>  
          <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
          <item name="android:homeAsUpIndicator">@drawable/actionbar_back</item> 
      </style>
     <style name="MyActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
-        <!-- <item name="android:background">@color/white</item>
-        <item name="android:titleTextStyle">@style/MainActivityActionBarTitleTextStyle</item> -->
+        
       
     </style>
     <style name="MyActionBarTabStyle" parent="android:style/Widget.Holo.Light.ActionBar.TabView">  
-          <!-- <item name="android:background">@color/white</item> -->  
+            
      </style>
     <style name="MyActionBarTabTextStyle" parent="android:style/Widget.Holo.Light.ActionBar.TabText">          
          <item name="android:textColor">@drawable/check_text_color</item>
          <item name="android:textSize">16sp</item>  
     </style>
     <style name="MyDropDownListView" parent="android:style/Widget.Holo.ListView.DropDown">  
-         <!-- <item name="android:listSelector">@color/blue2</item>  -->
+         
     </style>
     <style name="MyDropDownNav" parent="android:style/Widget.Holo.Light.Spinner">  
-         <!-- <item name="android:background">@color/white1</item>  
-         <item name="android:popupBackground">@color/white</item>  
-         <item name="android:dropDownSelector">@color/white1</item>   -->
+         
      </style>
 </resources>

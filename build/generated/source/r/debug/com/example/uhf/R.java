@@ -1395,32 +1395,13 @@ containing a value of this type.
     public static final class style {
         public static final int ActionBarBaseTheme=0x7f0c0000;
         public static final int ActionBarBaseTheme1=0x7f0c0001;
-        /** 
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
-         */
         public static final int AppBaseTheme=0x7f0c0002;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
         public static final int AppTheme=0x7f0c0003;
         public static final int CustomTheme=0x7f0c0004;
-        /**  <item name="android:background">@color/white</item>
-        <item name="android:titleTextStyle">@style/MainActivityActionBarTitleTextStyle</item> 
-         */
         public static final int MyActionBarStyle=0x7f0c0005;
-        /**  <item name="android:background">@color/white</item> 
-         */
         public static final int MyActionBarTabStyle=0x7f0c0006;
         public static final int MyActionBarTabTextStyle=0x7f0c0007;
-        /**  <item name="android:listSelector">@color/blue2</item>  
-         */
         public static final int MyDropDownListView=0x7f0c0008;
-        /**  <item name="android:background">@color/white1</item>  
-         <item name="android:popupBackground">@color/white</item>  
-         <item name="android:dropDownSelector">@color/white1</item>   
-         */
         public static final int MyDropDownNav=0x7f0c0009;
     }
     public static final class styleable {
@@ -1430,10 +1411,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CardView_exampleColor com.example.uhf:exampleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_exampleDimension com.example.uhf:exampleDimension}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_exampleDrawable com.example.uhf:exampleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_exampleString com.example.uhf:exampleString}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_exampleColor com.example.uhf.demo:exampleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_exampleDimension com.example.uhf.demo:exampleDimension}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_exampleDrawable com.example.uhf.demo:exampleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_exampleString com.example.uhf.demo:exampleString}</code></td><td></td></tr>
            </table>
            @see #CardView_exampleColor
            @see #CardView_exampleDimension
@@ -1444,7 +1425,7 @@ containing a value of this type.
             0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003
         };
         /**
-          <p>This symbol is the offset where the {@link com.example.uhf.R.attr#exampleColor}
+          <p>This symbol is the offset where the {@link com.example.uhf.demo.R.attr#exampleColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -1455,11 +1436,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.uhf:exampleColor
+          @attr name com.example.uhf.demo:exampleColor
         */
         public static final int CardView_exampleColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.example.uhf.R.attr#exampleDimension}
+          <p>This symbol is the offset where the {@link com.example.uhf.demo.R.attr#exampleDimension}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -1471,11 +1452,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.uhf:exampleDimension
+          @attr name com.example.uhf.demo:exampleDimension
         */
         public static final int CardView_exampleDimension = 1;
         /**
-          <p>This symbol is the offset where the {@link com.example.uhf.R.attr#exampleDrawable}
+          <p>This symbol is the offset where the {@link com.example.uhf.demo.R.attr#exampleDrawable}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -1483,11 +1464,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.example.uhf:exampleDrawable
+          @attr name com.example.uhf.demo:exampleDrawable
         */
         public static final int CardView_exampleDrawable = 3;
         /**
-          <p>This symbol is the offset where the {@link com.example.uhf.R.attr#exampleString}
+          <p>This symbol is the offset where the {@link com.example.uhf.demo.R.attr#exampleString}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -1497,7 +1478,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.example.uhf:exampleString
+          @attr name com.example.uhf.demo:exampleString
         */
         public static final int CardView_exampleString = 0;
     };

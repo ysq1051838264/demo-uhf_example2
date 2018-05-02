@@ -76,7 +76,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/shaders" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/build/.DS_Store" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/assets" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/blame" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/classes" />
@@ -98,7 +97,7 @@
     <orderEntry type="jdk" jdkName="Android API 15 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v4:18.0.0@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/yangshuquan/Downloads/demo-uhf_example2/libs/cw-deviceapi20180323.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/yangshuquan/Downloads/demo-uhf_example2/libs/xUtils-2.5.5.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/libs/xUtils-2.5.5.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/libs/cw-deviceapi20180323.jar:unspecified@jar" level="project" />
   </component>
 </module>

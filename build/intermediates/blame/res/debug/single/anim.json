@@ -1,19 +1,7 @@
 [
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
-    },
-    {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_right_out.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/anim/slide_right_out.xml"
-    },
-    {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\anim\\slide_left_in.xml"
-    },
-    {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_left_out.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/anim/slide_left_out.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
@@ -22,6 +10,42 @@
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_left_out.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/anim/slide_left_out.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_right_in.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/anim/slide_right_in.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_right_out.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/anim/slide_right_out.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_left_out.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/anim/slide_left_out.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_left_in.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/anim/slide_left_in.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_right_out.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/anim/slide_right_out.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/anim/slide_left_in.xml",
@@ -34,9 +58,5 @@
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/anim/grow_from_topleft_to_bottomright.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
-    },
-    {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\anim\\slide_right_out.xml"
     }
 ]

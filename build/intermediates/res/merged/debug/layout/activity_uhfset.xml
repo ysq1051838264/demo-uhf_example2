@@ -546,11 +546,12 @@
                     android:id="@+id/cbEPC_TID"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:checked="true"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
                     android:paddingBottom="5dp"
                     android:paddingTop="5dp"
-                    android:text="@string/EPC_TID"
+                    android:text="@string/EPC_TID_off"
                     android:textColor="@drawable/check_text_color2" />
             </LinearLayout>
         </LinearLayout>

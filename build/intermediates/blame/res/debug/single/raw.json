@@ -4,6 +4,10 @@
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/raw/barcodebeep.ogg"
     },
     {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/raw/serror.ogg",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/raw/serror.ogg"
+    },
+    {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\raw\\serror.ogg",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\raw\\serror.ogg"
     },
@@ -14,5 +18,9 @@
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/raw/serror.ogg",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/raw/serror.ogg"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/raw/barcodebeep.ogg",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/raw/barcodebeep.ogg"
     }
 ]

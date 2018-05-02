@@ -6,5 +6,9 @@
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/menu/main.xml"
     }
 ]

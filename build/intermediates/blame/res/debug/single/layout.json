@@ -1,27 +1,35 @@
 [
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_dialog_frequency.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_dialog_frequency.xml"
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_deactivate.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\fragment_deactivate.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\listtag_items.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\listtag_items.xml"
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_read_fragment.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_read_fragment.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_dialog_lock_code.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_dialog_lock_code.xml"
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_kill_fragment.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_kill_fragment.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\item_text1.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\item_text1.xml"
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_lock_fragment.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_lock_fragment.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_dialog_lock_code.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/uhf_dialog_lock_code.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/item_text1.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/item_text1.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_lock_fragment.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/uhf_lock_fragment.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/fragment_blank.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/fragment_blank.xml"
-    },
-    {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\fragment_blank.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_read_fragment.xml",
@@ -32,28 +40,44 @@
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_kill_fragment.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_kill_fragment.xml"
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/fragment_main.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_write_fragment.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/uhf_write_fragment.xml"
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/fragment_blank.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\fragment_main.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/popwindow_filter.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/popwindow_filter.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uhfset.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\activity_uhfset.xml"
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_write_fragment.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/uhf_write_fragment.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_filter.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\popwindow_filter.xml"
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_kill_fragment.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/uhf_kill_fragment.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_deactivate.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\fragment_deactivate.xml"
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/fragment_deactivate.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/fragment_deactivate.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_dialog_lock_code.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_dialog_lock_code.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_dialog_frequency.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/uhf_dialog_frequency.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_kill_fragment.xml",
@@ -68,6 +92,18 @@
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/uhf_dialog_lock_code.xml"
     },
     {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\listtag_items.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\listtag_items.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uhfset.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\activity_uhfset.xml"
+    },
+    {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/fragment_main.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/fragment_main.xml"
     },
@@ -76,20 +112,20 @@
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/uhf_dialog_frequency.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_readtag_fragment.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_readtag_fragment.xml"
-    },
-    {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_lock_fragment.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_lock_fragment.xml"
-    },
-    {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_write_fragment.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_write_fragment.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_read_fragment.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_read_fragment.xml"
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_dialog_frequency.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_dialog_frequency.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/popwindow_filter.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/popwindow_filter.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/activity_uhfset.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/activity_uhfset.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/item_text1.xml",
@@ -100,12 +136,32 @@
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/listtag_items.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\fragment_main.xml"
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_readtag_fragment.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/uhf_readtag_fragment.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\item_text1.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\item_text1.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_read_fragment.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/uhf_read_fragment.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\popwindow_filter.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\popwindow_filter.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/fragment_deactivate.xml",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/fragment_deactivate.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/listtag_items.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/listtag_items.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\uhf_readtag_fragment.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\uhf_readtag_fragment.xml"
     },
     {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/layout/activity_uhfset.xml",
@@ -116,7 +172,11 @@
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/layout/uhf_lock_fragment.xml"
     },
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/layout/uhf_write_fragment.xml",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/layout/uhf_write_fragment.xml"
     }
 ]

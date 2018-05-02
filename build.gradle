@@ -5,7 +5,7 @@ android {
     buildToolsVersion '23.0.1'
 
     defaultConfig {
-        applicationId "com.example.uhf"
+        applicationId "com.example.uhf.demo"
         minSdkVersion 11
         targetSdkVersion 15
     }

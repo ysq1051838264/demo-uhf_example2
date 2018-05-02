@@ -200,7 +200,7 @@
     <string name="app_msg_Upgrade">升级中...\n请勿退出，以免损坏硬件！</string>
     <string name="app_msg_exit_confirm">再按一次退出</string>
     <string name="app_msg_init">正在初始化模块...</string>
-    <string name="app_name">demo_uhf</string>
+    <string name="app_name">标签测试(tid过滤)</string>
     <string name="app_picker_name">应用</string>
     <string name="app_run_code_error">应用程序运行时异常</string>
     <string name="app_title">AppCenter</string>

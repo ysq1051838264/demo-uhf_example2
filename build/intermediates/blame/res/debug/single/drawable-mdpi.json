@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
-        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/drawable-mdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/E:\\AndroidStudioSimple\\demo-uhf_example2\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/yangshuquan/Downloads/demo-uhf_example2/src/main/res/drawable-mdpi/ic_launcher.png"
     }
 ]

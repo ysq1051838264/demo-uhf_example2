@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/libs/cw-deviceapi20180323.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9941947dce740818d5523f274a7f1912445f8094">
+        <dex dex="/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/pre-dexed/debug/cw-deviceapi20180323_df3a10cf6b37cc66634260b2eba3242125eaa429.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/yangshuquan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
         optimize="true"
@@ -27,6 +36,15 @@
         revision="23.0.1"
         sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
         <dex dex="/Users/yangshuquan/Downloads/demo-uhf_example2/build/intermediates/pre-dexed/debug/xUtils-2.5.5_46eb0627c8bbaa9e246ecbe37ea7005f4c95a507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/libs/xUtils-2.5.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="/Users/yangshuquan/Documents/jiafeng/demo-uhf_example2/build/intermediates/pre-dexed/debug/xUtils-2.5.5_483f2db769fda21391610eb5a384939dcebe7370.jar" />
     </item>
 
 </items>

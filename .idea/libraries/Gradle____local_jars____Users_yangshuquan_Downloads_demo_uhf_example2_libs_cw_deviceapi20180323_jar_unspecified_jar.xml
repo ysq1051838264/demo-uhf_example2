@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: __local_jars__:/Users/yangshuquan/Downloads/demo-uhf_example2/libs/cw-deviceapi20180323.jar:unspecified@jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/cw-deviceapi20180323.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

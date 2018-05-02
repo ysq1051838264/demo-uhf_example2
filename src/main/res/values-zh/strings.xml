@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">demo_uhf</string>
+    <string name="app_name">标签测试(tid过滤)</string>
     <string name="action_settings">设置</string>
     <string name="action_about">关于</string>
     <string name="action_display">显示设置</string>
